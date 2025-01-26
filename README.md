@@ -31,7 +31,7 @@
 ---
 
 📫 **Entre em contato:**  
-- [LinkedIn](www.linkedin.com/in/matheus-enryco)  
+- [LinkedIn](https:www.linkedin.com/in/matheus-enryco)  
 - Email: matheusenryco05@gmail.com 
 
 🎯 *"A tecnologia é a ponte entre ideias e soluções."*  
