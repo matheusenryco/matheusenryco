@@ -32,6 +32,8 @@
 
 📫 **Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/matheus-enryco)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheusenryco05@gmail.com)
+<a href="mailto:matheusenryco05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🎯 *"A tecnologia é a ponte entre ideias e soluções."*  
+🎯 *"A tecnologia é a ponte entre ideias e soluções."*
