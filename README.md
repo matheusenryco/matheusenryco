@@ -28,7 +28,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusenryco&layout=compact&theme=dark)
 
 ## 📈 Objetivos  
 - Expandir meu conhecimento em **desenvolvimento backend**.  
