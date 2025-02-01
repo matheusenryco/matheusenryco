@@ -26,9 +26,7 @@
 
 ### 📊 Status  
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusenryco&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusenryco&theme=dark)
+| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusenryco&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusenryco&theme=dark) |
 
 ## 📈 Objetivos  
 - Expandir meu conhecimento em **desenvolvimento backend**.  
