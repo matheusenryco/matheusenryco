@@ -24,15 +24,11 @@
   - Excel Avançado
 ---
 
-## 📊 Status
+### **matheusenryco (Enryco)**  
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusenryco&theme=tokyonight)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusenryco&theme=dark)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusenryco&theme=tokyonight)
-
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuseryco&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusenryco&theme=dark)
 
 ## 📈 Objetivos  
 - Expandir meu conhecimento em **desenvolvimento backend**.  
