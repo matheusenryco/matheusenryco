@@ -22,6 +22,7 @@
 - **Ferramentas:**  
   - Visual Studio  
   - Excel Avançado
+
 ---
 
 ### 📊 Status  
@@ -31,8 +32,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusenryco&theme=dark)
 
 ## 📈 Objetivos  
-- Expandir meu conhecimento em **desenvolvimento backend**.  
-- Trabalhar em projetos que envolvam **otimização de bancos de dados** e **sistemas integrados**.  
+- Expandir meu conhecimento em **desenvolvimento backend** e aplica-los em projetos reais. 
 
 ---
 
