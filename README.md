@@ -24,7 +24,7 @@
   - Excel Avançado
 ---
 
-### **matheusenryco (Enryco)**  
+### 📊 Status  
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusenryco&theme=dark)
 
