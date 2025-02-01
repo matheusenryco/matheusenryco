@@ -28,7 +28,7 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusenryco&theme=tokyonight)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusenryco&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=pie&theme=tokyonight)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheuseryco&theme=tokyonight)
 
