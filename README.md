@@ -24,6 +24,12 @@
   - Excel Avançado
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+
 ## 📈 Objetivos  
 - Expandir meu conhecimento em **desenvolvimento backend**.  
 - Trabalhar em projetos que envolvam **otimização de bancos de dados** e **sistemas integrados**.  
