@@ -13,9 +13,9 @@
   </a>
 </div>
 
-👋 Hi! My name is Matheus and I'm currently studying Software Engineering.  
+👋 Hi! My name is Matheus and I'm currently studying **Software Engineering** at **State University of Maringá**.  
 I'm always looking to learn and develop new skills.  
-Right now, I'm focused on programming with Java.  
+Right now, I'm focused on programming with **Java**.  
 Feel free to check out my projects here!
 
 ---
