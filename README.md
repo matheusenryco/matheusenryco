@@ -1,43 +1,67 @@
-# 🌟 Bem-vindo ao meu GitHub!
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh2OHdwcHdvYXdzbmkydmVjeDF6bG4wYmx1ejR3bzBlZzNpOXYweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
 
-👋 Olá! Sou estudante de **Informática** na **Universidade Estadual de Maringá (UEM)**, apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado em **C#** e **bancos de dados SQL**, desenvolvendo habilidades para criar soluções eficientes e funcionais.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-enryco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQRdJtcvVpgbFVFVMmVhpTPwPQcJnJtQNjNvNQghdKVxXFFZkjhrfPWqKrqSklNkFLmhS" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-## 🚀 Sobre mim  
-- 🎓 **Curso:** Informática - UEM  
-- 💻 **Áreas de interesse:**  
-  - Desenvolvimento de software com C#  
-  - Modelagem e gerenciamento de bancos de dados  
-- 📚 Sempre buscando aprender e aplicar novos conhecimentos em projetos desafiadores.  
-
----
-
-## 🛠️ Tecnologias que utilizo  
-- **Linguagens:**  
-  - C#  
-  - Python  
-- **Banco de Dados:**  
-  - SQL 
-- **Ferramentas:**  
-  - Visual Studio  
-  - Excel Avançado
+👋 Hi! My name is Matheus and I'm currently studying Software Engineering.  
+I'm always looking to learn and develop new skills.  
+Right now, I'm focused on programming with Java.  
+Feel free to check out my projects here!
 
 ---
 
-### 📊 Status  
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusenryco&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusenryco&theme=dark)
-
-## 📈 Objetivos  
-- Expandir meu conhecimento em **desenvolvimento backend** e aplica-los em projetos reais. 
+## 👩‍💻  About Me  
+- 🎓 **Degree:** Software Engineering - UEM  
+- 💻 **Areas of interest:**  
+  - Software development with Java  
+  - Database modeling and management 
+- 📚 Always looking to learn and apply new knowledge in challenging projects.  
 
 ---
 
-📫 **Entre em contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/matheus-enryco)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=matheusenryco05@gmail.com)
+<h3 align="left">🛠 Language and tools</h3>
 
-🎯 *"A tecnologia é a ponte entre ideias e soluções."*
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusenryco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+## 📈 Goals  
+- Expand my knowledge in **backend development** and apply it to real-world projects.
+
+---
