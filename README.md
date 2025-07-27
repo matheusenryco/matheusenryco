@@ -13,9 +13,11 @@
   </a>
 </div>
 
-👋 Hi! My name is Matheus and I'm currently studying **Software Engineering** at **State University of Maringá**.  
-I'm always looking to learn and develop new skills.  
-Right now, I'm focused on programming with **Java**.  
+#👋 Hi! I'm Matheus Enryco
+Software Engeneering student | Software Developer | Maringá, Paraná, Brazil
+
+Welcome to my profile! I'm passionate about back-end development, currently, i'm focused on mastering the Java language to expand my back-end skills.
+
 Feel free to check out my projects here!
 
 ---
@@ -62,8 +64,4 @@ Feel free to check out my projects here!
 </picture>
 
 ###
-
-## 📈 Goals  
-- Expand my knowledge in **backend development** and apply it to real-world projects.
-
 ---
