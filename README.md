@@ -2,7 +2,13 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh2OHdwcHdvYXdzbmkydmVjeDF6bG4wYmx1ejR3bzBlZzNpOXYweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
-###
+#👋 Hi! I'm Matheus Enryco
+
+Software Engeneering student | Software Developer | Maringá, Paraná, Brazil
+
+Welcome to my profile! I'm passionate about back-end development, currently, i'm focused on mastering the Java language to expand my back-end skills.
+
+Feel free to check out my projects here!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-enryco/" target="_blank">
@@ -12,14 +18,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###👋 Hi! I'm Matheus Enryco
-
-### Software Engeneering student | Software Developer | Maringá, Paraná, Brazil
-
-Welcome to my profile! I'm passionate about back-end development, currently, i'm focused on mastering the Java language to expand my back-end skills.
-
-Feel free to check out my projects here!
 
 ---
 
