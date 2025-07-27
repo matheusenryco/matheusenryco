@@ -14,7 +14,8 @@
 </div>
 
 #👋 Hi! I'm Matheus Enryco
-Software Engeneering student | Software Developer | Maringá, Paraná, Brazil
+
+### Software Engeneering student | Software Developer | Maringá, Paraná, Brazil
 
 Welcome to my profile! I'm passionate about back-end development, currently, i'm focused on mastering the Java language to expand my back-end skills.
 
