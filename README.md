@@ -55,7 +55,9 @@ Feel free to check out my projects here!
 ###
 
 <div align="center">
-  <img height="220" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=matheusenryco&theme=dracula&locale=pt_BR&hide_border=true&border_radius=5" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=matheusenryco&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ###
