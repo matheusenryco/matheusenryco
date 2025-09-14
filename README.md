@@ -22,12 +22,14 @@ Feel free to check out my projects here!
 ---
 
 ## 👩‍💻  About Me  
-- 🎓 **Degree:** Software Engineering - UEM  
+- 🎓 **Degree:** Software Engineering - State University of Maringá
 - 💻 **Areas of interest:**  
-  - Software development with Java  
-  - Database modeling and management 
-- 📚 Always looking to learn and apply new knowledge in challenging projects.  
-
+  - Back-end development with Java and the Spring ecosystem
+  - Database modeling and management (SQL & NoSQL)
+- 📚 Always looking to learn and apply new knowledge in challenging projects.
+  
+- 🚀 **Objective:** 
+   - Passionate about using technology to solve complex problems and build scalable solutions.
 ---
 
 <h3 align="left">🛠 Language and tools</h3>
