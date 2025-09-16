@@ -60,9 +60,7 @@ Feel free to check out my projects here!
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=matheusenryco&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
