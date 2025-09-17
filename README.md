@@ -15,7 +15,7 @@
 ### 🙋‍♂️ About Me
 
 <p align="justify">
-  I'm a software developer and a Software Engineering student at the State University of Maringá (UEM). My passion is <b>Back-end</b> development, where I focus on building robust and scalable solutions.
+  I'm a Back-end developer in training and a Software Engineering student at the State University of Maringá (UEM), passionate about technology and continuous learning. I’m currently focusing on <b>Back-end</b> development, where I aim to build robust and scalable solutions. 
 </p>
 
 - 🎓 Studying **Software Engineering** at the **State University of Maringá (UEM)**.
