@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=%233289d9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=%233289d9&center=true&vCenter=true&width=500&lines=Hi!+I'm+Matheus+Enryco+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,11 +15,12 @@
 ### 🙋‍♂️ About Me
 
 <p align="justify">
-  I'm a Back-end developer in training and a Software Engineering student at the State University of Maringá (UEM), passionate about technology and continuous learning. I’m currently focusing on <b>Back-end</b> development, where I aim to build robust and scalable solutions. 
+  I'm a Back-end developer in training, passionate about technology and continuous learning. Currently, I'm dedicated to Back-end development, aiming to build robust and scalable applications to solve complex problems. 
 </p>
 
 - 🎓 Studying **Software Engineering** at the **State University of Maringá (UEM)**.
-- 💻 Main focus on **Java** and the **Spring Framework** ecosystem.
+- 💻 Main focus on **Java** and the **Spring Framework**.
+- 🔎 Currently exploring containerization with Docker and deepening my knowledge in databases (SQL and NoSQL)
 - 🌱 Always learning and exploring new technologies to solve complex problems.
 
 ---
@@ -35,19 +36,6 @@
   </a>
 </p>
 
-###
-
----
-
-## 👩‍💻  About Me  
-- 🎓 **Degree:** Software Engineering - State University of Maringá
-- 💻 **Areas of interest:**  
-  - Back-end development with Java and the Spring ecosystem
-  - Database modeling and management (SQL & NoSQL)
-- 📚 Always looking to learn and apply new knowledge in challenging projects.
-  
-- 🚀 **Objective:** 
-   - Passionate about using technology to solve complex problems and build scalable solutions.
 ---
 
 ###
@@ -75,23 +63,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
----
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&card_width=450" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusenryco&theme=dark&card_width=450&langs_count=5&hide=php,javascript" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ###
 
