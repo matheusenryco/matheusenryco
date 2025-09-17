@@ -22,19 +22,7 @@
 - 💻 Main focus on **Java** and the **Spring Framework**.
 - 🔎 Currently exploring containerization with Docker and deepening my knowledge in databases (SQL and NoSQL)
 - 🌱 Always learning and exploring new technologies to solve complex problems.
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-enryco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:your-email-here@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-</p>
+- 🤝 **Always open to collaborate on backend projects!**
 
 ---
 
@@ -67,6 +55,19 @@
 ###
 
 ---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-enryco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:your-email-here@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+</p>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph-dark.svg">
