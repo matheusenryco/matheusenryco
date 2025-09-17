@@ -58,16 +58,7 @@ Feel free to check out my projects here!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="center">🔥 My Stats :</h3>
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-###
+[![GitHub Streak](https://github-readme-streak-stats-k6onsljfv-matheus-projects-0a5741a4.vercel.app/api?user=matheusenryco&theme=java-dark&border_radius=4.0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=220)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph-dark.svg">
