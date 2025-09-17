@@ -62,10 +62,16 @@ Feel free to check out my projects here!
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&card_width=450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusenryco&theme=dark&card_width=450&langs_count=5&hide=php" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&card_width=450" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusenryco&theme=dark&card_width=450&langs_count=5&hide=php,javascript" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ###
 
