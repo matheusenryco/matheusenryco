@@ -49,8 +49,6 @@ Feel free to check out my projects here!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -58,7 +56,20 @@ Feel free to check out my projects here!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-k6onsljfv-matheus-projects-0a5741a4.vercel.app/api?user=matheusenryco&theme=java-dark&border_radius=4.0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=220)](https://git.io/streak-stats)
+###
+
+---
+
+<h3 align="left">🔥 My Stats :</h3>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusenryco&theme=dark&card_width=150&langs_count=5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusenryco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&card_width=150" alt="GitHub Stats" />
+</p>
+
+###
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusenryco/matheusenryco/output/pacman-contribution-graph-dark.svg">
@@ -67,4 +78,3 @@ Feel free to check out my projects here!
 </picture>
 
 ###
----
