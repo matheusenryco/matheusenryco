@@ -1,15 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh2OHdwcHdvYXdzbmkydmVjeDF6bG4wYmx1ejR3bzBlZzNpOXYweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-</div>
-
-###
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=%233289d9&center=true&vCenter=true&width=500&lines=Hi!+I'm+Matheus+Enryco+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=153C9A&vCenter=true&width=435&height=200&lines=Hi!+I'm+Matheus+Enryco" alt="Typing SVG" />
+  <img height="175" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9pMnhldjFqanY1d3ZkaWl0bjA2eTlnZmpjYm5icXFmcWM4ZG4zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mDQl3jkCqmSrailZZ/giphy.gif" alt="Charizard" style="vertical-align: middle; margin-left: 20px;">
 </p>
 
+###
 ---
 
 ### 🙋‍♂️ About Me
