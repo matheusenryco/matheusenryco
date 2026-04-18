@@ -10,7 +10,7 @@
 ### 🙋‍♂️ About Me
 
 <p align="justify">
-  I'm a Back-end developer in training, passionate about technology and continuous learning. Currently, I'm dedicated to Back-end development, aiming to build robust and scalable applications to solve complex problems. 
+  I'm a Back-end developer, passionate about technology and continuous learning. Currently, I'm dedicated to Back-end development, aiming to build robust and scalable applications to solve complex problems. 
 </p>
 
 - 🎓 Studying **Software Engineering** at the **State University of Maringá (UEM)**.
